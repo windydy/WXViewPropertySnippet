@@ -1,6 +1,6 @@
-###sublime 2/3 微信小程序控件属性snippet 
+### sublime 2/3 微信小程序控件属性snippet 
 
-###使用说明
+### 使用说明
 
 将下载好的snippet包放入 Sublime text 目录/Packages/User下即可
 所有属性提示，均以其控件为前缀。例如：
