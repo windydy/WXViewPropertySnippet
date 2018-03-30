@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[longitude="${1:}"]]></content><tabTrigger>map:longitude</tabTrigger><description>中心经度</description></snippet>

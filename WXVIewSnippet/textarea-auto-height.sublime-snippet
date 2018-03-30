@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[auto-height="${1:false}"]]></content><tabTrigger>textarea:auto-height</tabTrigger><description>是否自动增高，设置auto-height时，style.height不生效</description></snippet>

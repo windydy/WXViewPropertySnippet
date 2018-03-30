@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[app-parameter="${1:}"]]></content><tabTrigger>button:app-parameter</tabTrigger><description>打开 APP 时，向 APP 传递的参数</description></snippet>

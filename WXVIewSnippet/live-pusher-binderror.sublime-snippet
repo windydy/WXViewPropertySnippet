@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[binderror="${1:}"]]></content><tabTrigger>live-pusher:binderror</tabTrigger><description>渲染错误事件，detail = {errMsg, errCode}</description></snippet>

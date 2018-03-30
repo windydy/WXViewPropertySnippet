@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[author="${1:未知作者}"]]></content><tabTrigger>audio:author</tabTrigger><description>默认控件上的作者名字，如果 controls 属性值为 false 则设置 author 无效</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[block-size="${1:28}"]]></content><tabTrigger>slider:block-size</tabTrigger><description>滑块的大小，取值范围为 12 - 28</description></snippet>

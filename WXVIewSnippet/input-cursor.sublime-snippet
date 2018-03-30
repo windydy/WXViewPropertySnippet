@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[cursor="${1:}"]]></content><tabTrigger>input:cursor</tabTrigger><description>指定focus时的光标位置</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[delta="${1:}"]]></content><tabTrigger>navigator:delta</tabTrigger><description>当 open-type 为 'navigateBack' 时有效，表示回退的层数</description></snippet>

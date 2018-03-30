@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[auto-focus="${1:false}"]]></content><tabTrigger>textarea:auto-focus</tabTrigger><description>自动聚焦，拉起键盘。</description></snippet>

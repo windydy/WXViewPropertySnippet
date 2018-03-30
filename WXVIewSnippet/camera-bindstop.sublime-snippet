@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindstop="${1:}"]]></content><tabTrigger>camera:bindstop</tabTrigger><description>摄像头在非正常终止时触发，如退出后台等情况</description></snippet>

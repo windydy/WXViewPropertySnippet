@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[next-margin="${1:"0px"}"]]></content><tabTrigger>swiper:next-margin</tabTrigger><description>后边距，可用于露出后一项的一小部分，接受 px 和 rpx 值</description></snippet>

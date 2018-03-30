@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindscroll="${1:}"]]></content><tabTrigger>scroll-view:bindscroll</tabTrigger><description>滚动时触发，event.detail = {scrollLeft, scrollTop, scrollHeight, scrollWidth, deltaX, deltaY}</description></snippet>

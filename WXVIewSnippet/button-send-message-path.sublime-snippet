@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[send-message-path="${1:当前分享路径}"]]></content><tabTrigger>button:send-message-path</tabTrigger><description>会话内消息卡片点击跳转小程序路径</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[display-multiple-items="${1:1}"]]></content><tabTrigger>swiper:display-multiple-items</tabTrigger><description>同时显示的滑块数量</description></snippet>

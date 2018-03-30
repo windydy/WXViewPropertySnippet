@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[damping="${1:20}"]]></content><tabTrigger>movable-view:damping</tabTrigger><description>阻尼系数，用于控制x或y改变时的动画和过界回弹的动画，值越大移动越快</description></snippet>

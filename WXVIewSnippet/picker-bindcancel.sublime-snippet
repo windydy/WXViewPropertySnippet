@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindcancel="${1:}"]]></content><tabTrigger>picker:bindcancel</tabTrigger><description>取消选择时触发</description></snippet>

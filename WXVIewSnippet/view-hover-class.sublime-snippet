@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[hover-class="${1:none}"]]></content><tabTrigger>view:hover-class</tabTrigger><description>指定按下去的样式类。当 </description></snippet>

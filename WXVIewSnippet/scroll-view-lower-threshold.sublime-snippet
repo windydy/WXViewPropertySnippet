@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[lower-threshold="${1:50}"]]></content><tabTrigger>scroll-view:lower-threshold</tabTrigger><description>距底部/右边多远时（单位px），触发 scrolltolower 事件</description></snippet>

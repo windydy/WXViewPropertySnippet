@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindregionchange="${1:}"]]></content><tabTrigger>map:bindregionchange</tabTrigger><description>视野发生变化时触发</description></snippet>

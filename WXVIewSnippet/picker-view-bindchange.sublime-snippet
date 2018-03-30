@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindchange="${1:当滚动选择，value 改变时触发 change 事件，event.detail = {value: value}；value为数组，表示 picker-view 内的 picker-view-column 当前选择的是第几项（下标从 0 开始）}"]]></content><tabTrigger>picker-view:bindchange</tabTrigger><description></description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[cursor-spacing="${1:0}"]]></content><tabTrigger>input:cursor-spacing</tabTrigger><description>指定光标与键盘的距离，单位 px 。取 input 距离底部的距离和 cursor-spacing 指定的距离的最小值作为光标与键盘的距离</description></snippet>

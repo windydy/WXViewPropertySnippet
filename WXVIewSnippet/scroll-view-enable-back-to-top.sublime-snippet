@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[enable-back-to-top="${1:false}"]]></content><tabTrigger>scroll-view:enable-back-to-top</tabTrigger><description>iOS点击顶部状态栏、安卓双击标题栏时，滚动条返回顶部，只支持竖向</description></snippet>

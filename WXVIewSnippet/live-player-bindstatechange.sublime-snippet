@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindstatechange="${1:}"]]></content><tabTrigger>live-player:bindstatechange</tabTrigger><description>播放状态变化事件，detail = {code}</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[end="${1:}"]]></content><tabTrigger>picker:end</tabTrigger><description>表示有效日期范围的结束，字符串格式为"YYYY-MM-DD"</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindfullscreenchange="${1:}"]]></content><tabTrigger>live-player:bindfullscreenchange</tabTrigger><description>全屏变化事件，detail = {direction, fullScreen}</description></snippet>

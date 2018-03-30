@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[binderror="${1:}"]]></content><tabTrigger>audio:binderror</tabTrigger><description>当发生错误时触发 error 事件，detail = {errMsg: MediaError.code}</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-play-btn="${1:true}"]]></content><tabTrigger>video:show-play-btn</tabTrigger><description>是否显示视频底部控制栏的播放按钮</description></snippet>

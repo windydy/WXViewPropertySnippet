@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[type="${1:switch}"]]></content><tabTrigger>switch:type</tabTrigger><description>样式，有效值：switch, checkbox</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[device-position="${1:back}"]]></content><tabTrigger>camera:device-position</tabTrigger><description>前置或后置，值为front, back</description></snippet>

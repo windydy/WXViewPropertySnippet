@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindchange="${1:}"]]></content><tabTrigger>swiper:bindchange</tabTrigger><description>current 改变时会触发 change 事件，event.detail = {current: current, source: source}</description></snippet>

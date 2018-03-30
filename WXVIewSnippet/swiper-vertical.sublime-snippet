@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[vertical="${1:false}"]]></content><tabTrigger>swiper:vertical</tabTrigger><description>滑动方向是否为纵向</description></snippet>

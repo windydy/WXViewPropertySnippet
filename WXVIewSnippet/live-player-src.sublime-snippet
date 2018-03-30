@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[src="${1:}"]]></content><tabTrigger>live-player:src</tabTrigger><description>音视频地址。目前仅支持 flv, rtmp 格式</description></snippet>

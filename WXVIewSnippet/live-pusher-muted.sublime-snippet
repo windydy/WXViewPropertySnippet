@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[muted="${1:false}"]]></content><tabTrigger>live-pusher:muted</tabTrigger><description>是否静音</description></snippet>

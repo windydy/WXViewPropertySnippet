@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[step="${1:1}"]]></content><tabTrigger>slider:step</tabTrigger><description>步长，取值必须大于 0，并且可被(max - min)整除</description></snippet>

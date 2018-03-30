@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-center-play-btn="${1:true}"]]></content><tabTrigger>video:show-center-play-btn</tabTrigger><description>是否显示视频中间的播放按钮</description></snippet>

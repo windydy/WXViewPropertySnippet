@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[type="${1:}"]]></content><tabTrigger>icon:type</tabTrigger><description>icon的类型，有效值：success, success_no_circle, info, warn, waiting, cancel, download, search, clear</description></snippet>

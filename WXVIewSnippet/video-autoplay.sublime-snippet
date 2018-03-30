@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[autoplay="${1:false}"]]></content><tabTrigger>video:autoplay</tabTrigger><description>是否自动播放</description></snippet>

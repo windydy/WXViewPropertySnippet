@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[scale="${1:16}"]]></content><tabTrigger>map:scale</tabTrigger><description>缩放级别，取值范围为5-18</description></snippet>

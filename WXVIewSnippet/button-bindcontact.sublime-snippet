@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindcontact="${1:}"]]></content><tabTrigger>button:bindcontact</tabTrigger><description>客服消息回调</description></snippet>

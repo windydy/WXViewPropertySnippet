@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[autopush="${1:false}"]]></content><tabTrigger>live-pusher:autopush</tabTrigger><description>自动推流</description></snippet>

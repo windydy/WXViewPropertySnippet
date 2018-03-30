@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindended="${1:}"]]></content><tabTrigger>audio:bindended</tabTrigger><description>当播放到末尾时触发 ended 事件</description></snippet>

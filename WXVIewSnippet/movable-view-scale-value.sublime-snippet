@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[scale-value="${1:1}"]]></content><tabTrigger>movable-view:scale-value</tabTrigger><description>定义缩放倍数，取值范围为 0.5 - 10</description></snippet>

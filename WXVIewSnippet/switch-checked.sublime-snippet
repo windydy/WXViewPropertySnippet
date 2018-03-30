@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[checked="${1:false}"]]></content><tabTrigger>switch:checked</tabTrigger><description>是否选中</description></snippet>

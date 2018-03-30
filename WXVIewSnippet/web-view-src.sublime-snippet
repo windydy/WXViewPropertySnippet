@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[src="${1:}"]]></content><tabTrigger>web-view:src</tabTrigger><description>webview 指向网页的链接。需登录</description></snippet>

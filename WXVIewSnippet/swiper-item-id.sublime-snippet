@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[item-id="${1:""}"]]></content><tabTrigger>swiper:item-id</tabTrigger><description>该 swiper-item 的标识符</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindchange="${1:}"]]></content><tabTrigger>radio:bindchange</tabTrigger><description> 中的选中项发生变化时触发 change 事件，event.detail = {value: 选中项radio的value}</description></snippet>

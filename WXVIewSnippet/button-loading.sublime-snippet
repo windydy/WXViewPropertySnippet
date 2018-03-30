@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[loading="${1:false}"]]></content><tabTrigger>button:loading</tabTrigger><description>名称前是否带 loading 图标</description></snippet>

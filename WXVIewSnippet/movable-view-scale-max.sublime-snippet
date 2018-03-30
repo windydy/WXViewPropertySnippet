@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[scale-max="${1:10}"]]></content><tabTrigger>movable-view:scale-max</tabTrigger><description>定义缩放倍数最大值</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindmarkertap="${1:}"]]></content><tabTrigger>map:bindmarkertap</tabTrigger><description>点击标记点时触发</description></snippet>

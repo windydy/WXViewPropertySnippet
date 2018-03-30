@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[latitude="${1:}"]]></content><tabTrigger>map:latitude</tabTrigger><description>中心纬度</description></snippet>

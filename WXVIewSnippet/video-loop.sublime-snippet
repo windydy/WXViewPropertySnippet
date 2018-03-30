@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[loop="${1:false}"]]></content><tabTrigger>video:loop</tabTrigger><description>是否循环播放</description></snippet>

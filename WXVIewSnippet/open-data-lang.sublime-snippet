@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[lang="${1:en}"]]></content><tabTrigger>open-data:lang</tabTrigger><description>当 type="user*" 时生效，以哪种语言展示 userInfo，有效值有：en, zh_CN, zh_TW</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[color="${1:}"]]></content><tabTrigger>switch:color</tabTrigger><description>switch 的颜色，同 css 的 color</description></snippet>

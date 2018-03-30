@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[stroke-width="${1:6}"]]></content><tabTrigger>progress:stroke-width</tabTrigger><description>进度条线的宽度，单位px</description></snippet>

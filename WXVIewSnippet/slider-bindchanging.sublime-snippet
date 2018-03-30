@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindchanging="${1:}"]]></content><tabTrigger>slider:bindchanging</tabTrigger><description>拖动过程中触发的事件，event.detail = {value: value}</description></snippet>

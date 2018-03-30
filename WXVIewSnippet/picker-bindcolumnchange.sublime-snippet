@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindcolumnchange="${1:}"]]></content><tabTrigger>picker:bindcolumnchange</tabTrigger><description>某一列的值改变时触发 columnchange 事件，event.detail = {column: column, value: value}，column 的值表示改变了第几列（下标从0开始），value 的值表示变更值的下标</description></snippet>

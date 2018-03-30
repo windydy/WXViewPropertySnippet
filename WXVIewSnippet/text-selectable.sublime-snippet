@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[selectable="${1:false}"]]></content><tabTrigger>text:selectable</tabTrigger><description>文本是否可选</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindscale="${1:}"]]></content><tabTrigger>movable-view:bindscale</tabTrigger><description>完成一次拖动后触发的事件，event.detail = {scale: scale}</description></snippet>

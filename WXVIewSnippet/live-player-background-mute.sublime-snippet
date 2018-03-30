@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[background-mute="${1:false}"]]></content><tabTrigger>live-player:background-mute</tabTrigger><description>进入后台时是否静音</description></snippet>

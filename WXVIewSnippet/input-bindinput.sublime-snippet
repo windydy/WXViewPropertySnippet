@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindinput="${1:}"]]></content><tabTrigger>input:bindinput</tabTrigger><description>当键盘输入时，触发input事件，event.detail = {value, cursor}，处理函数可以直接 return 一个字符串，将替换输入框的内容。</description></snippet>

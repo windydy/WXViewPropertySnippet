@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[custom-item="${1:}"]]></content><tabTrigger>picker:custom-item</tabTrigger><description>可为每一列的顶部添加一个自定义的项</description></snippet>

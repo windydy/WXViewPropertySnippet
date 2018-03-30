@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[src="${1:}"]]></content><tabTrigger>video:src</tabTrigger><description>要播放视频的资源地址</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[scroll-left="${1:}"]]></content><tabTrigger>scroll-view:scroll-left</tabTrigger><description>设置横向滚动条位置</description></snippet>

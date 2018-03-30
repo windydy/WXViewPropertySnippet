@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindscrolltoupper="${1:}"]]></content><tabTrigger>scroll-view:bindscrolltoupper</tabTrigger><description>滚动到顶部/左边，会触发 scrolltoupper 事件</description></snippet>

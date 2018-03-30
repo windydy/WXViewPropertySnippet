@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[danmu-btn="${1:false}"]]></content><tabTrigger>video:danmu-btn</tabTrigger><description>是否显示弹幕按钮，只在初始化时有效，不能动态变更</description></snippet>

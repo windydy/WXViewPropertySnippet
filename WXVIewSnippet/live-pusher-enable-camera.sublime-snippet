@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[enable-camera="${1:true}"]]></content><tabTrigger>live-pusher:enable-camera</tabTrigger><description>开启摄像头</description></snippet>

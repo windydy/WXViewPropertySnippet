@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindreset="${1:表单重置时会触发 reset 事件}"]]></content><tabTrigger>form:bindreset</tabTrigger><description></description></snippet>

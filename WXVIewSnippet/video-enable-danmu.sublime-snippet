@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[enable-danmu="${1:false}"]]></content><tabTrigger>video:enable-danmu</tabTrigger><description>是否展示弹幕，只在初始化时有效，不能动态变更</description></snippet>

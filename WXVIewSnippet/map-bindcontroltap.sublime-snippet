@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindcontroltap="${1:}"]]></content><tabTrigger>map:bindcontroltap</tabTrigger><description>点击控件时触发</description></snippet>

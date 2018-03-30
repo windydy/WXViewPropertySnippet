@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-fullscreen-btn="${1:true}"]]></content><tabTrigger>video:show-fullscreen-btn</tabTrigger><description>是否显示全屏按钮</description></snippet>

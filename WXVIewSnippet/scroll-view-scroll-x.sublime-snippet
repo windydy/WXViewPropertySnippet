@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[scroll-x="${1:false}"]]></content><tabTrigger>scroll-view:scroll-x</tabTrigger><description>允许横向滚动</description></snippet>

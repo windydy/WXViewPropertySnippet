@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[value="${1:}"]]></content><tabTrigger>textarea:value</tabTrigger><description>输入框的内容</description></snippet>

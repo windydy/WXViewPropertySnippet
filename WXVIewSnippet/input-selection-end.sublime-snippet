@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[selection-end="${1:-1}"]]></content><tabTrigger>input:selection-end</tabTrigger><description>光标结束位置，自动聚集时有效，需与selection-start搭配使用</description></snippet>

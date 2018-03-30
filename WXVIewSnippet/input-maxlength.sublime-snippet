@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[maxlength="${1:140}"]]></content><tabTrigger>input:maxlength</tabTrigger><description>最大输入长度，设置为 -1 的时候不限制最大长度</description></snippet>

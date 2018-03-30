@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[include-points="${1:}"]]></content><tabTrigger>map:include-points</tabTrigger><description>缩放视野以包含所有给定的坐标点</description></snippet>

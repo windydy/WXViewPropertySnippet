@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[interval="${1:5000}"]]></content><tabTrigger>swiper:interval</tabTrigger><description>自动切换时间间隔</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[orientation="${1:vertical}"]]></content><tabTrigger>live-pusher:orientation</tabTrigger><description>vertical，horizontal</description></snippet>

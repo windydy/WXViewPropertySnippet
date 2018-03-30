@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[placeholder="${1:}"]]></content><tabTrigger>textarea:placeholder</tabTrigger><description>输入框为空时占位符</description></snippet>

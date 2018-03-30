@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[confirm-type="${1:"done"}"]]></content><tabTrigger>input:confirm-type</tabTrigger><description>设置键盘右下角按钮的文字</description></snippet>

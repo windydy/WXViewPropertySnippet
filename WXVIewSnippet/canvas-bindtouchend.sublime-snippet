@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindtouchend="${1:}"]]></content><tabTrigger>canvas:bindtouchend</tabTrigger><description>手指触摸动作结束</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[plain="${1:false}"]]></content><tabTrigger>button:plain</tabTrigger><description>按钮是否镂空，背景色透明</description></snippet>

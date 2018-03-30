@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindinput="${1:}"]]></content><tabTrigger>textarea:bindinput</tabTrigger><description>当键盘输入时，触发 input 事件，event.detail = {value, cursor}，</description></snippet>

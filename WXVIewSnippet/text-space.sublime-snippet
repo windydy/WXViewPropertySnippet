@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[space="${1:false}"]]></content><tabTrigger>text:space</tabTrigger><description>显示连续空格</description></snippet>

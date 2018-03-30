@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[binderrror="${1:}"]]></content><tabTrigger>button:binderrror</tabTrigger><description>当使用开放能力时，发生错误的回调</description></snippet>

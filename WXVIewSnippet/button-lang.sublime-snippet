@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[lang="${1:en}"]]></content><tabTrigger>button:lang</tabTrigger><description>指定返回用户信息的语言，zh_CN 简体中文，zh_TW 繁体中文，en 英文。</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-info="${1:false}"]]></content><tabTrigger>progress:show-info</tabTrigger><description>在进度条右侧显示百分比</description></snippet>

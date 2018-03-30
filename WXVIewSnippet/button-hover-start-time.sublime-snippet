@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[hover-start-time="${1:20}"]]></content><tabTrigger>button:hover-start-time</tabTrigger><description>按住后多久出现点击态，单位毫秒</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[disable-scroll="${1:false}"]]></content><tabTrigger>canvas:disable-scroll</tabTrigger><description>当在 canvas 中移动时且有绑定手势事件时，禁止屏幕滚动以及下拉刷新</description></snippet>

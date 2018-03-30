@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[objectFit="${1:contain}"]]></content><tabTrigger>video:objectFit</tabTrigger><description>当视频大小与 video 容器大小不一致时，视频的表现形式。contain：包含，fill：填充，cover：覆盖</description></snippet>

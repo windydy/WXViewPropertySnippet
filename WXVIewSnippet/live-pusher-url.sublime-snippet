@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[url="${1:}"]]></content><tabTrigger>live-pusher:url</tabTrigger><description>推流地址。目前仅支持 flv, rtmp 格式</description></snippet>

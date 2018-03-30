@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[value="${1:}"]]></content><tabTrigger>checkbox:value</tabTrigger><description>标识，选中时触发</description></snippet>

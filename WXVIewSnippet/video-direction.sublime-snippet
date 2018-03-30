@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[direction="${1:}"]]></content><tabTrigger>video:direction</tabTrigger><description>设置全屏时视频的方向，不指定则根据宽高比自动判断。有效值为 0（正常竖向）, 90（屏幕逆时针90度）, -90（屏幕顺时针90度）</description></snippet>

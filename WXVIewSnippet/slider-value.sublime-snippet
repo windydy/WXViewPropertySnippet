@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[value="${1:0}"]]></content><tabTrigger>slider:value</tabTrigger><description>当前取值</description></snippet>

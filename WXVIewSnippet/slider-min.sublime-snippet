@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[min="${1:0}"]]></content><tabTrigger>slider:min</tabTrigger><description>最小值</description></snippet>

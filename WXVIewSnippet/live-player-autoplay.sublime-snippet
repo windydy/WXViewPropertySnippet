@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[autoplay="${1:false}"]]></content><tabTrigger>live-player:autoplay</tabTrigger><description>自动播放</description></snippet>

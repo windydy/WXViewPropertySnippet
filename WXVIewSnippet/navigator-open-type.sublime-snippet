@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[open-type="${1:navigate}"]]></content><tabTrigger>navigator:open-type</tabTrigger><description>跳转方式</description></snippet>

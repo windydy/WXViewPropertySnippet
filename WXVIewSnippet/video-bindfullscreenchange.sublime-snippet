@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindfullscreenchange="${1:}"]]></content><tabTrigger>video:bindfullscreenchange</tabTrigger><description>当视频进入和退出全屏是触发，event.detail = {fullScreen, direction}，direction取为 vertical 或 horizontal</description></snippet>

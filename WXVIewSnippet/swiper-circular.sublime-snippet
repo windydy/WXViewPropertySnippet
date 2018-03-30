@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[circular="${1:false}"]]></content><tabTrigger>swiper:circular</tabTrigger><description>是否采用衔接滑动</description></snippet>

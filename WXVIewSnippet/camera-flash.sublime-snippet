@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[flash="${1:auto}"]]></content><tabTrigger>camera:flash</tabTrigger><description>闪光灯，值为auto, on, off</description></snippet>

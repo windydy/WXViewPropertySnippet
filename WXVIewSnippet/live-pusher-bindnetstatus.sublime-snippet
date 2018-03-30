@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindnetstatus="${1:}"]]></content><tabTrigger>live-pusher:bindnetstatus</tabTrigger><description>网络状态通知，detail = {info}</description></snippet>

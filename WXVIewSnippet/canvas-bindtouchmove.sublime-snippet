@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindtouchmove="${1:}"]]></content><tabTrigger>canvas:bindtouchmove</tabTrigger><description>手指触摸后移动</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[type="${1:"text"}"]]></content><tabTrigger>input:type</tabTrigger><description>input 的类型</description></snippet>

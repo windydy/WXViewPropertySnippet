@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[waiting-image-md5="${1:}"]]></content><tabTrigger>live-pusher:waiting-image-md5</tabTrigger><description>等待画面资源的MD5值</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-confirm-bar="${1:true}"]]></content><tabTrigger>textarea:show-confirm-bar</tabTrigger><description>是否显示键盘上方带有”完成“按钮那一栏</description></snippet>

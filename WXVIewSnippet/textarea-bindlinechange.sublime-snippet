@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindlinechange="${1:}"]]></content><tabTrigger>textarea:bindlinechange</tabTrigger><description>输入框行数变化时调用，event.detail = {height: 0, heightRpx: 0, lineCount: 0}</description></snippet>

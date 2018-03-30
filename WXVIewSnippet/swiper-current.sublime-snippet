@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[current="${1:0}"]]></content><tabTrigger>swiper:current</tabTrigger><description>当前所在滑块的 index</description></snippet>

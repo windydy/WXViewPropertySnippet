@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[poster="${1:}"]]></content><tabTrigger>audio:poster</tabTrigger><description>默认控件上的音频封面的图片资源地址，如果 controls 属性值为 false 则设置 poster 无效</description></snippet>

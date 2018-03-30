@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[checked="${1:false}"]]></content><tabTrigger>radio:checked</tabTrigger><description>当前是否选中</description></snippet>

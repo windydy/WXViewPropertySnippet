@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[out-of-bounds="${1:false}"]]></content><tabTrigger>movable-view:out-of-bounds</tabTrigger><description>超过可移动区域后，movable-view是否还可以移动</description></snippet>

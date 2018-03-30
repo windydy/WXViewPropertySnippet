@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[fixed="${1:false}"]]></content><tabTrigger>textarea:fixed</tabTrigger><description>如果 textarea 是在一个 </description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[object-fit="${1:contain}"]]></content><tabTrigger>live-player:object-fit</tabTrigger><description>填充模式，可选值有 contain，fillCrop</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindgetuserinfo="${1:}"]]></content><tabTrigger>button:bindgetuserinfo</tabTrigger><description>用户点击该按钮时，会返回获取到的用户信息，从返回参数的detail中获取到的值同</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindchange="${1:}"]]></content><tabTrigger>picker:bindchange</tabTrigger><description>value 改变时触发 change 事件，event.detail = {value: value}</description></snippet>

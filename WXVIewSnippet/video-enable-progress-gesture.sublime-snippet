@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[enable-progress-gesture="${1:true}"]]></content><tabTrigger>video:enable-progress-gesture</tabTrigger><description>是否开启控制进度的手势</description></snippet>

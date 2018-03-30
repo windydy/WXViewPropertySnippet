@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[controls="${1:true}"]]></content><tabTrigger>video:controls</tabTrigger><description>是否显示默认播放控件（播放/暂停按钮、播放进度、时间）</description></snippet>

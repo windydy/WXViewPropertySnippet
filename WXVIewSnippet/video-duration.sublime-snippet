@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[duration="${1:}"]]></content><tabTrigger>video:duration</tabTrigger><description>指定视频时长</description></snippet>

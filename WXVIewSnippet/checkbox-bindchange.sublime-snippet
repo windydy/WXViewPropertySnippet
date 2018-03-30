@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindchange="${1:}"]]></content><tabTrigger>checkbox:bindchange</tabTrigger><description>中选中项发生改变是触发 change 事件，detail = {value:[选中的checkbox的value的数组]}</description></snippet>

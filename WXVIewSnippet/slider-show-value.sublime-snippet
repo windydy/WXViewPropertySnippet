@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-value="${1:false}"]]></content><tabTrigger>slider:show-value</tabTrigger><description>是否显示当前 value</description></snippet>

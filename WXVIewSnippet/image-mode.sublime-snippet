@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[mode="${1:'scaleToFill'}"]]></content><tabTrigger>image:mode</tabTrigger><description>图片裁剪、缩放的模式</description></snippet>

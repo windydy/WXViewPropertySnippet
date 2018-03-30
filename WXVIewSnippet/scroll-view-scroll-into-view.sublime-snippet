@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[scroll-into-view="${1:}"]]></content><tabTrigger>scroll-view:scroll-into-view</tabTrigger><description>值应为某子元素id（id不能以数字开头）。设置哪个方向可滚动，则在哪个方向滚动到该元素</description></snippet>

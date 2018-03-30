@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[direction="${1:none}"]]></content><tabTrigger>movable-view:direction</tabTrigger><description>movable-view的移动方向，属性值有all、vertical、horizontal、none</description></snippet>

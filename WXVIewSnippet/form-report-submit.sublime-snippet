@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[report-submit="${1:是否返回 formId 用于发送}"]]></content><tabTrigger>form:report-submit</tabTrigger><description></description></snippet>

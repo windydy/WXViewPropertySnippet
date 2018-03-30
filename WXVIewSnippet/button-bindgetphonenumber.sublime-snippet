@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindgetphonenumber="${1:}"]]></content><tabTrigger>button:bindgetphonenumber</tabTrigger><description>获取用户手机号回调</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[inertia="${1:false}"]]></content><tabTrigger>movable-view:inertia</tabTrigger><description>movable-view是否带有惯性</description></snippet>

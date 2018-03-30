@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[aspect="${1:9:16}"]]></content><tabTrigger>live-pusher:aspect</tabTrigger><description>宽高比，可选值有 3:4, 9:16</description></snippet>

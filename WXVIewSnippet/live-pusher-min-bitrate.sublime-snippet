@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[min-bitrate="${1:200}"]]></content><tabTrigger>live-pusher:min-bitrate</tabTrigger><description>最小码率</description></snippet>

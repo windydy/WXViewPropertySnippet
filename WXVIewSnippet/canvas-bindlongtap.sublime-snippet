@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindlongtap="${1:}"]]></content><tabTrigger>canvas:bindlongtap</tabTrigger><description>手指长按 500ms 之后触发，触发了长按事件后进行移动不会触发屏幕的滚动</description></snippet>

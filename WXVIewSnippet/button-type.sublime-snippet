@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[type="${1:default}"]]></content><tabTrigger>button:type</tabTrigger><description>按钮的样式类型</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[color="${1:#09BB07}"]]></content><tabTrigger>progress:color</tabTrigger><description>进度条颜色 （请使用 activeColor）</description></snippet>

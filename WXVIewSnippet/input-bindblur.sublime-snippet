@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindblur="${1:}"]]></content><tabTrigger>input:bindblur</tabTrigger><description>输入框失去焦点时触发，event.detail = {value: value}</description></snippet>

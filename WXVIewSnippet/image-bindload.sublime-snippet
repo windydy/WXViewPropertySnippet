@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindload="${1:}"]]></content><tabTrigger>image:bindload</tabTrigger><description>当图片载入完毕时，发布到 AppService 的事件名，事件对象event.detail = {height:'图片高度px', width:'图片宽度px'}</description></snippet>

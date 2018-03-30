@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[max-bitrate="${1:1000}"]]></content><tabTrigger>live-pusher:max-bitrate</tabTrigger><description>最大码率</description></snippet>

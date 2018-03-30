@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-location="${1:}"]]></content><tabTrigger>map:show-location</tabTrigger><description>显示带有方向的当前定位点</description></snippet>

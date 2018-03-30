@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[session-from="${1:}"]]></content><tabTrigger>button:session-from</tabTrigger><description>会话来源</description></snippet>

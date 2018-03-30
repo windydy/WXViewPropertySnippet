@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindfocus="${1:}"]]></content><tabTrigger>input:bindfocus</tabTrigger><description>输入框聚焦时触发，event.detail = { value, height }，height 参数在基础库 1.9.90 起支持</description></snippet>

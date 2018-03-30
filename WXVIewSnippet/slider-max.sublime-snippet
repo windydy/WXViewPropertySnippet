@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[max="${1:100}"]]></content><tabTrigger>slider:max</tabTrigger><description>最大值</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[max-cache="${1:3}"]]></content><tabTrigger>live-player:max-cache</tabTrigger><description>最大缓冲区，单位s</description></snippet>

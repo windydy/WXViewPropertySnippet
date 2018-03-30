@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[current-item-id="${1:""}"]]></content><tabTrigger>swiper:current-item-id</tabTrigger><description>当前所在滑块的 item-id ，不能与 current 被同时指定</description></snippet>

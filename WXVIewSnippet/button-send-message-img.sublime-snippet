@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[send-message-img="${1:截图}"]]></content><tabTrigger>button:send-message-img</tabTrigger><description>会话内消息卡片图片</description></snippet>

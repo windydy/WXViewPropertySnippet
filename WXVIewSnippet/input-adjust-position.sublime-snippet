@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[adjust-position="${1:true}"]]></content><tabTrigger>input:adjust-position</tabTrigger><description>键盘弹起时，是否自动上推页面</description></snippet>

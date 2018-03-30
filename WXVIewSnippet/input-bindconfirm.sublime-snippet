@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindconfirm="${1:}"]]></content><tabTrigger>input:bindconfirm</tabTrigger><description>点击完成按钮时触发，event.detail = {value: value}</description></snippet>

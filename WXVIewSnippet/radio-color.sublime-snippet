@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[color="${1:}"]]></content><tabTrigger>radio:color</tabTrigger><description>radio的颜色，同css的color</description></snippet>

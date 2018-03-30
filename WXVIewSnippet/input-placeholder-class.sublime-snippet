@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[placeholder-class="${1:"input-placeholder"}"]]></content><tabTrigger>input:placeholder-class</tabTrigger><description>指定 placeholder 的样式类</description></snippet>

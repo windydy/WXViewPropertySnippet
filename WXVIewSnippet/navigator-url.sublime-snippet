@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[url="${1:}"]]></content><tabTrigger>navigator:url</tabTrigger><description>应用内的跳转链接</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[open-gid="${1:}"]]></content><tabTrigger>open-data:open-gid</tabTrigger><description>当 type="groupName" 时生效, 群id</description></snippet>

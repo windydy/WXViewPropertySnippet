@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[hover-class="${1:navigator-hover}"]]></content><tabTrigger>navigator:hover-class</tabTrigger><description>指定点击时的样式类，当</description></snippet>

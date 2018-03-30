@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-message-card="${1:false}"]]></content><tabTrigger>button:show-message-card</tabTrigger><description>显示会话内消息卡片</description></snippet>

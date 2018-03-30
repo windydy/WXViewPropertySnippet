@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[mode="${1:live}"]]></content><tabTrigger>live-player:mode</tabTrigger><description>live（直播），RTC（实时通话）</description></snippet>

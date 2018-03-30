@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[poster="${1:}"]]></content><tabTrigger>video:poster</tabTrigger><description>视频封面的图片网络资源地址，如果 controls 属性值为 false 则设置 poster 无效</description></snippet>

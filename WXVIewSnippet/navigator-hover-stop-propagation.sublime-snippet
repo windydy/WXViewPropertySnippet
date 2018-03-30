@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[hover-stop-propagation="${1:false}"]]></content><tabTrigger>navigator:hover-stop-propagation</tabTrigger><description>指定是否阻止本节点的祖先节点出现点击态</description></snippet>

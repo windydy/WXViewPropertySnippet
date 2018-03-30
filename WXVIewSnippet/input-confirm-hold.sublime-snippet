@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[confirm-hold="${1:false}"]]></content><tabTrigger>input:confirm-hold</tabTrigger><description>点击键盘右下角按钮时是否保持键盘不收起</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[start="${1:}"]]></content><tabTrigger>picker:start</tabTrigger><description>表示有效日期范围的开始，字符串格式为"YYYY-MM-DD"</description></snippet>

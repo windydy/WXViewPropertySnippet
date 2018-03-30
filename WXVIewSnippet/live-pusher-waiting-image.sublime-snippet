@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[waiting-image="${1:}"]]></content><tabTrigger>live-pusher:waiting-image</tabTrigger><description>进入后台时推流的等待画面</description></snippet>

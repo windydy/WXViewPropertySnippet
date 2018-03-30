@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[scroll-with-animation="${1:false}"]]></content><tabTrigger>scroll-view:scroll-with-animation</tabTrigger><description>在设置滚动条位置时使用动画过渡</description></snippet>

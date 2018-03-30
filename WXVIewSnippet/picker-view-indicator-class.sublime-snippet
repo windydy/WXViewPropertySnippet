@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[indicator-class="${1:设置选择器中间选中框的类名}"]]></content><tabTrigger>picker-view:indicator-class</tabTrigger><description></description></snippet>

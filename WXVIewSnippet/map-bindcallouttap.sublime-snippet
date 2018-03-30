@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindcallouttap="${1:}"]]></content><tabTrigger>map:bindcallouttap</tabTrigger><description>点击标记点对应的气泡时触发</description></snippet>

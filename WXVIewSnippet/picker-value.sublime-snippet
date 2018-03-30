@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[value="${1:[]}"]]></content><tabTrigger>picker:value</tabTrigger><description>表示选中的省市区，默认选中每一列的第一个值</description></snippet>

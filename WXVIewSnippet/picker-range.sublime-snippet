@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[range="${1:[]}"]]></content><tabTrigger>picker:range</tabTrigger><description>mode为 selector 或 multiSelector 时，range 有效。二维数组，长度表示多少列，数组的每项表示每列的数据，如</description></snippet>

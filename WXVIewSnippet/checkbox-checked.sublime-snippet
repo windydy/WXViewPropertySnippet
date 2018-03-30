@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[checked="${1:false}"]]></content><tabTrigger>checkbox:checked</tabTrigger><description>当前是否选中，可用来设置默认选中</description></snippet>

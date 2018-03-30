@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[size="${1:default}"]]></content><tabTrigger>button:size</tabTrigger><description>按钮的大小</description></snippet>

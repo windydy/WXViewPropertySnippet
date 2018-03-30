@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[show-progress="${1:true}"]]></content><tabTrigger>video:show-progress</tabTrigger><description>若不设置，宽度大于240时才会显示</description></snippet>

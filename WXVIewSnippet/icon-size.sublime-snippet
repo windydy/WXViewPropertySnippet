@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[size="${1:23}"]]></content><tabTrigger>icon:size</tabTrigger><description>icon的大小，单位px</description></snippet>

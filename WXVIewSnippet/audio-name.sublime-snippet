@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[name="${1:未知音频}"]]></content><tabTrigger>audio:name</tabTrigger><description>默认控件上的音频名字，如果 controls 属性值为 false 则设置 name 无效</description></snippet>

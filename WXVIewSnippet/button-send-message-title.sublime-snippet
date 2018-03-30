@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[send-message-title="${1:当前标题}"]]></content><tabTrigger>button:send-message-title</tabTrigger><description>会话内消息卡片标题</description></snippet>

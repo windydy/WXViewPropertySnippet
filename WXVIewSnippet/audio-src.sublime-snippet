@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[src="${1:}"]]></content><tabTrigger>audio:src</tabTrigger><description>要播放音频的资源地址</description></snippet>

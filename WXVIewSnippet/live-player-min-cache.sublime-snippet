@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[min-cache="${1:1}"]]></content><tabTrigger>live-player:min-cache</tabTrigger><description>最小缓冲区，单位s</description></snippet>

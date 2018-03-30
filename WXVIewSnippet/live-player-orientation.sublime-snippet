@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[orientation="${1:vertical}"]]></content><tabTrigger>live-player:orientation</tabTrigger><description>画面方向，可选值有 vertical，horizontal</description></snippet>

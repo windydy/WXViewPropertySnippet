@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[selected-color="${1:#1aad19}"]]></content><tabTrigger>slider:selected-color</tabTrigger><description>已选择的颜色（请使用 activeColor）</description></snippet>

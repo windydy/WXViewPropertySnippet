@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindchange="${1:}"]]></content><tabTrigger>switch:bindchange</tabTrigger><description>checked 改变时触发 change 事件，event.detail={ value:checked}</description></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindpause="${1:}"]]></content><tabTrigger>video:bindpause</tabTrigger><description>当暂停播放时触发 pause 事件</description></snippet>

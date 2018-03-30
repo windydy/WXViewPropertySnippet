@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[indicator-dots="${1:false}"]]></content><tabTrigger>swiper:indicator-dots</tabTrigger><description>是否显示面板指示点</description></snippet>

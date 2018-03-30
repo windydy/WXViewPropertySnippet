@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[bindtouchcancel="${1:}"]]></content><tabTrigger>canvas:bindtouchcancel</tabTrigger><description>手指触摸动作被打断，如来电提醒，弹窗</description></snippet>

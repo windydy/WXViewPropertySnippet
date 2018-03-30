@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[selection-start="${1:-1}"]]></content><tabTrigger>textarea:selection-start</tabTrigger><description>光标起始位置，自动聚集时有效，需与selection-end搭配使用</description></snippet>
